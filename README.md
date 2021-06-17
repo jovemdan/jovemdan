@@ -1,16 +1,67 @@
-### Hi there 👋
+# Olá! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<!--
-**jovemdan/jovemdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="40%" src="https://media.giphy.com/media/U16eJ5dFcfiolA5u85/giphy.gif" alt="Code" />
 
-Here are some ideas to get you started:
+### Bem vindo a minha pagina!
+<p>
+  Sou Levi, desenvolvedor Full-Stack do <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <b>Brazil</b>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sou estudante, desenvolvedor e tenho 22 anos!!
+
+- 👨🏻‍🚀 Atualmente trabalhando na área e focado nos estudos.
+- 🌱 Procurando evoluir no desenvolvimento web com API's em .NET e Front-end com Angular.
+- 🥅 Mente aberta pra aprender novas tecnologias.
+- 👯 Estou procurando colaborar com outros desenvolvedores!
+- 🖥️ Focado no desenvolvimento web.
+
+
+### Onde me encontrar:
+
+<a href="https://www.linkedin.com/in/danilo-gon%C3%A7alves-a862a6142/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:danilogdev@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+<br>
+
+## Minha stack
+
+**Tecnologias**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="DotNet"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SqlServer"/></code>
+
+
+**DevOps**
+
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+**Business Tools**
+
+<! - <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>  ->
+<! - <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code> ->
+
+<br/>
+
+## Coding Activity
+
+<! - <br/>
+
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=Levis44&show_icons=true&hide_border=true&theme=radical" alt="Levis44's Github Stats"/>
+</p> ->
+
+
+
+<br/>
