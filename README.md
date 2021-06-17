@@ -1,6 +1,6 @@
 # Olá! :) <img width="40" align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="left" width="40%" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47fxlqaavfgqvelanlazn0vfdsq445avda7tevfyln&rid=giphy.gif&ct=g" alt="Code" />
+<img align="right" width="40%" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47fxlqaavfgqvelanlazn0vfdsq445avda7tevfyln&rid=giphy.gif&ct=g" alt="Code" />
 
 
 ### Bem vindo a minha página!
