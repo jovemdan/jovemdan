@@ -47,5 +47,5 @@
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <br>
-<img align="right" width="40%" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47fxlqaavfgqvelanlazn0vfdsq445avda7tevfyln&rid=giphy.gif&ct=g" alt="Code" />
+<img align="left" width="40%" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47fxlqaavfgqvelanlazn0vfdsq445avda7tevfyln&rid=giphy.gif&ct=g" alt="Code" />
 
