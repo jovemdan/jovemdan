@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:danilogdev@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
+  <code><img alt="My e-mail" width="28" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
 </a>
 <br>
 
