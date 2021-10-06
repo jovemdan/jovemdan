@@ -9,19 +9,13 @@
   <b>Brazil</b>.
 </p>
 
-### Full-Stack Web Developer
-
-- 👨🏻‍🚀 Atualmente trabalhando na área e focado nos estudos.
-- 🌱 Procurando evoluir no desenvolvimento web com API's em .NET e Front-end com Angular.
-- 🥅 Mente aberta pra aprender novas tecnologias.
-- 👯 Estou procurando colaborar com outros desenvolvedores!
-- 🖥️ Focado no desenvolvimento web.
+- 🖥️ Focado no desenvolvimento web com API's em .NET e Front-end com React eAngular.  
 
 
 ### Onde me encontrar:
 
 <a href="https://www.linkedin.com/in/danilo-gon%C3%A7alves-a862a6142/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" /></code>
 </a>
 
 <a href="mailto:danilogdev@gmail.com">
