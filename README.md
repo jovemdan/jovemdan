@@ -6,7 +6,6 @@
 
 <p>
   Sou Danilo, Desenvolvedor Web Full-Stack <img width="16" src="https://cdn-icons-png.flaticon.com/512/630/630591.png" alt="Brazil" />
-  <b>Brazil</b>.
 </p>
 
 - 🖥️ Focado no universo web.  
