@@ -9,7 +9,7 @@
   <b>Brazil</b>.
 </p>
 
-- 🖥️ Focado no desenvolvimento web com API's em .NET e Front-end com React eAngular.  
+- 🖥️ Focado no universo web.  
 
 
 ### Onde me encontrar:
@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:danilogdev@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
 </a>
 <br>
 
