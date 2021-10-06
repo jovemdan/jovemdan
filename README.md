@@ -5,11 +5,11 @@
 
 ### Bem vindo a minha página!
 <p>
-  Sou Danilo, Desenvolvedor Web Full-Stack <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  Sou Danilo, Desenvolvedor Web Full-Stack <img width="16" src="https://cdn-icons-png.flaticon.com/512/630/630591.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
-### Sou estudante, desenvolvedor e tenho 22 anos!!
+### Full-Stack Web Developer
 
 - 👨🏻‍🚀 Atualmente trabalhando na área e focado nos estudos.
 - 🌱 Procurando evoluir no desenvolvimento web com API's em .NET e Front-end com Angular.
