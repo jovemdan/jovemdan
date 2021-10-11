@@ -21,9 +21,7 @@
   <code><img alt="My e-mail" width="28" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></code>
 </a>
 
-## Minha stack
-
-**Tecnologias**
+**Minha stack**
 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="DotNet"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
